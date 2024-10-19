@@ -1,0 +1,19 @@
+# Declaración de diferentes tipos de variables en Python
+
+# Entero
+numero_entero = 10
+
+# Flotante
+numero_flotante = 10.5
+
+# Cadena de texto
+cadena_texto = "Hola, mundo"
+
+# Booleano
+booleano = True
+
+# Lista
+lista = [1, 2, 3, 4, 5]
+
+# Tupla
+tupla = (1, 2, 3, 4, 5)
